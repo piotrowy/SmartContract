@@ -15,3 +15,6 @@ Conditions:
 
 
 Thanks Tomasz for workshops which he conducted at out office (http://espeo.eu/blog/ninja-academy-cryptocurrency/) and for his code which I partialy used for learning purpose.
+
+Here is a great example by Tomasz:
+http://espeo.eu/blog/how-start-an-ethereum-ico/
