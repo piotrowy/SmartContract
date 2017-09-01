@@ -14,7 +14,7 @@ Conditions:
 * ICO's owner has access to all tokens which aren't sold at the end of the ICO.
 
 
-Thanks Tomasz for workshops which he conducted at out office (http://espeo.eu/blog/ninja-academy-cryptocurrency/) and for his code which I partialy used for learning purpose.
+Thanks @tcichowicz for workshops which he conducted at out office (http://espeo.eu/blog/ninja-academy-cryptocurrency/) and for his code which I partialy used for learning purpose.
 
-Here is a great example by Tomasz:
+Here is a great example by @tcichowicz:
 http://espeo.eu/blog/how-start-an-ethereum-ico/
