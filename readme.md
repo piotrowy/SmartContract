@@ -1,4 +1,4 @@
-#EspeoToken
+# EspeoToken
 
 Project is a simple implementation of blockchain based smart contract. It's in ERC20 token standard and uses Ethereum framework.
 
