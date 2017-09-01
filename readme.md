@@ -4,7 +4,7 @@ Project is a simple implementation of blockchain based smart contract. It's in E
 
 Conditions:
 * totalSupply 500 ESP
-* startDate whatever
+* startDate whatever > now
 * endDate > startDate
 * maxCap 0.5 ETH
 * minimal payment 0.01 ETH
